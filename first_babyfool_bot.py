@@ -3,7 +3,7 @@ import time
 
 
 API_URL = 'https://api.telegram.org/bot'
-BOT_TOKEN = <bot_token> #вставить токен
+BOT_TOKEN = None #<bot_token>
 TEXT = 'Спасибо, что пользуетесь мной! Когда-нибудь мой функционал позволит ответить вам'
 MAX_COUNTER = 100
 
